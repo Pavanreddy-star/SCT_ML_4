@@ -1,0 +1,11 @@
+# Ignore virtual environment
+venv/
+
+# Ignore dataset and large files
+dataset/
+
+# Ignore compiled Python files
+__pycache__/
+
+# Ignore model files (optional, if they are large)
+models/
